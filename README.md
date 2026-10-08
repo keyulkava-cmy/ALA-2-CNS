@@ -1,2 +1,1 @@
-# ALA-2-CNS
-SECURELAB
+https://securelab-cns-ala2.netlify.app/
