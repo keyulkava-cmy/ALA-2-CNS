@@ -1,1 +1,1 @@
-https://securelab-cns-ala2.netlify.app/
+https://subtle-sprite-f0a9ab.netlify.app
